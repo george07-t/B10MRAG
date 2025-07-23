@@ -1,0 +1,35 @@
+# Core LangChain packages
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-ollama
+
+# LangGraph for agent workflows
+langgraph
+
+# Vector database and embeddings
+chromadb
+sentence-transformers
+langchain-huggingface
+# Document processing
+pypdf
+beautifulsoup4
+lxml
+pymupdf
+multilingual-pdf2text
+
+# Web scraping and HTTP requests
+requests
+urllib3
+
+# Text processing and tokenization
+tiktoken
+
+# Type hints and validation
+pydantic
+typing-extensions
+
+# Utility packages
+python-dotenv

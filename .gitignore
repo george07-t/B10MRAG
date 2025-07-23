@@ -1,0 +1,58 @@
+# Virtual environments
+venv10ms/
+venv/
+.env/
+.venv/
+
+# Database and cache
+chroma_db/
+*.sqlite3
+*.db
+*.mypy_cache/
+*.pytest_cache/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Logs and coverage
+*.log
+*.pdb
+*.coverage
+.coverage.*
+
+# OS files
+*.DS_Store
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info
+dist
+build
+*.whl
+*.log
+*.sqlite3
+*.db
+*.DS_Store
+*.coverage
+.coverage.*
+*.mypy_cache
+*.pytest_cache
