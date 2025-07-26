@@ -17,9 +17,9 @@ langchain-huggingface
 pypdf
 beautifulsoup4
 lxml
-pymupdf
-multilingual-pdf2text
 
+multilingual-pdf2text
+fastapi[standard]
 # Web scraping and HTTP requests
 requests
 urllib3
